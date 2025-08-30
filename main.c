@@ -5,7 +5,7 @@
  * English Version
 */
 
-#include "main_dynamic.h"
+#include "main.h"
 
 /* Returns the size of an array (of strings) */
 int size(char **lineList) {
