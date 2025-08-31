@@ -11,4 +11,6 @@ This project consists in creating a bus management system (dynamic memory alloca
  - `r <line>` removes a line from the system.
  - `e <stop>` removes a stop from the system.
 
+Compilation: `gcc -O3 -Wall -Wextra -Werror -ansi -pedantic -fsanitize=address,undefined -o main main.c`.
+
 Note: This is an academic project. The idea of the project came from Vasco Manquinho (Instituto Superior Técnico, Lisbon, Portugal)
